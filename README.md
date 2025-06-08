@@ -116,7 +116,8 @@ fc ≈ 6.77 Hz
 
 *Detailed internal schematic of the operational amplifier:*
 
-![Op-Amp Schematic Diagram](Schematics/highpass_schem.png)
+![Op-Amp Schematic Diagram]<img src="Schematics/highpass_schem.png" width="600"/> 
+
 
 ---
 
@@ -124,7 +125,7 @@ fc ≈ 6.77 Hz
 
 *Standard symbolic representation of an operational amplifier:*
 
-![Op-Amp Symbolic Diagram](Schematics/highpass_sym.png)
+![Op-Amp Symbolic Diagram]<img src="(Schematics/highpass_sym.png)" width="600"/> 
 
 ---
 
@@ -132,5 +133,5 @@ fc ≈ 6.77 Hz
 
 *High-pass filter circuit built using the op-amp symbol shown above:*
 
-![High-Pass Filter Circuit](Schematics/highpass_ckt.png)
+![High-Pass Filter Circuit]<img src="Schematics/highpass_ckt.png" width="600"/> 
 
