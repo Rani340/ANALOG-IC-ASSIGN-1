@@ -43,9 +43,6 @@ This model helps in:
 - Ensuring minimal signal loss at the interface
 
 <img src="Schematics/Thevenin_equi.png" width="600"/>
-[Click here to view the Xschem code](https://github.com/Rani340/ANALOG-IC-ASSIGN-1/blob/main/xschem/mictest)
-
-
 
 
 > 📷 This schematic shows the practical implementation of the Thevenin model using Xschem.
@@ -68,6 +65,10 @@ The frequency response reveals the bandwidth and filtering effects of the analog
 The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
 
 <img src="Plot/mic_sim.png" width="400"/>
+[Click here to view the Xschem code](https://github.com/Rani340/ANALOG-IC-ASSIGN-1/blob/main/xschem/mictest)
+
+
+
 
 ---
 ### 🔧 Op-Amp Modeling as a Single Pole System
