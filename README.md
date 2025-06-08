@@ -71,3 +71,9 @@ The Simulink simulation confirms system-level behavior and time-domain signal dy
 To better analyze the frequency response of the analog front-end, the operational amplifier is modeled using a **single-pole transfer function**. This provides insight into the bandwidth limitations and phase behavior of the amplifier.
 
 <img src="Schematics/mic_opamp.png" width="600"/>
+#### 🔁 Simulink Output
+
+The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
+
+<img src="Plot/mic_sim.png" width="400"/>
+
