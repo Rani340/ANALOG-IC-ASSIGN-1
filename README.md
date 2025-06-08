@@ -116,7 +116,7 @@ fc ≈ 6.77 Hz
 
 *Detailed internal schematic of the operational amplifier:*
 
-![Op-Amp Schematic Diagram](schematic/highpassopaschematic.jpeg)
+![Op-Amp Schematic Diagram](Schematics/highpass_schem.png)
 
 ---
 
