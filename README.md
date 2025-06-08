@@ -58,7 +58,7 @@ The simulation below shows the voltage output (`vout`) across the load, after si
 
 The frequency response reveals the bandwidth and filtering effects of the analog stage.
 
-<img src="plots/micfreq.png" width="500"/>" width="500"/>
+<img src="Plot/mic_plot.png" width="500"/>" width="500"/>
 
 ---
 ### 🔧 Op-Amp Modeling as a Single Pole System
