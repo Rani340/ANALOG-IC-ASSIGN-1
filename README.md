@@ -54,6 +54,11 @@ The simulation below shows the voltage output (`vout`) across the load, after si
 <img src="Schematics/Mic_output.png" width="600"/>
 
 > 🧪 This waveform helps verify if the designed circuit properly amplifies the mic signal within expected voltage ranges.
+> #### 📈 Frequency Response
+
+The frequency response reveals the bandwidth and filtering effects of the analog stage.
+
+<img src="plots/micfreq.png" width="500"/>" width="500"/>
 
 ---
 ### 🔧 Op-Amp Modeling as a Single Pole System
