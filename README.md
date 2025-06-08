@@ -135,3 +135,19 @@ fc ≈ 6.77 Hz
 
 <img src="Schematics/highpass_ckt.png" width="400"/> 
 
+## High-Pass Filter Response Plot and Simulink Output
+
+### 1. Frequency Response Plot of the High-Pass Filter
+
+*The plot below shows the frequency response (gain vs frequency) of the high-pass filter circuit.*
+
+![High-Pass Filter Frequency Response](cktimg/highpass_freq_response.png)
+
+---
+
+### 2. Simulink Output of the High-Pass Filter
+
+*Output waveform from the Simulink simulation of the high-pass filter circuit.*
+
+![Simulink Output Waveform](cktimg/simulink_highpass_output.png)
+
