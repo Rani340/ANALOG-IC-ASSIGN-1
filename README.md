@@ -142,9 +142,13 @@ fc ≈ 6.77 Hz
 *The plot below shows the frequency response (gain vs frequency) of the high-pass filter circuit.*
 <img src="Plot/highpass_plot.png" width="550"/> 
 
+
 ---
 
 ### 2. Simulink Output of the High-Pass Filter
 
 
 <img src="Plot/highpass_sim.png" width="400"/> 
+
+[Click here to view the Xschem code](https://github.com/Rani340/ANALOG-IC-ASSIGN-1/blob/main/xschem/highpass)
+
