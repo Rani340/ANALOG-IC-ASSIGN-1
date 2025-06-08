@@ -58,7 +58,12 @@ The simulation below shows the voltage output (`vout`) across the load, after si
 
 The frequency response reveals the bandwidth and filtering effects of the analog stage.
 
-<img src="Plot/mic_plot.png" width="500"/>" width="500"/>
+<img src="Plot/mic_plot.png" width="500"/>" 
+#### 🔁 Simulink Output
+
+The Simulink simulation confirms system-level behavior and time-domain signal dynamics.
+
+<img src="simulink/simulink_output.png" width="600"/>
 
 ---
 ### 🔧 Op-Amp Modeling as a Single Pole System
