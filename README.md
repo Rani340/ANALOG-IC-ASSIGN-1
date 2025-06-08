@@ -43,7 +43,8 @@ This model helps in:
 - Ensuring minimal signal loss at the interface
 
 <img src="Schematics/Thevenin_equi.png" width="600"/>
-[Click here to view the Xschem code](./xschem/mictest)
+[Click here to view the Xschem code](https://github.com/Rani340/ANALOG-IC-ASSIGN-1/blob/main/xschem/mictest)
+
 
 
 
