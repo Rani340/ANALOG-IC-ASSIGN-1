@@ -146,6 +146,5 @@ fc ≈ 6.77 Hz
 
 ### 2. Simulink Output of the High-Pass Filter
 
-*Output waveform from the Simulink simulation of the high-pass filter circuit.*
 
 <img src="Plot/highpass_sim.png" width="400"/> 
