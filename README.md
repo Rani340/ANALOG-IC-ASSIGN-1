@@ -43,7 +43,8 @@ This model helps in:
 - Ensuring minimal signal loss at the interface
 
 <img src="Schematics/Thevenin_equi.png" width="600"/>
-🔗 [Click here to view the Xschem code](xschem/mictest)
+[Click here to view the Xschem code](./xschem/mictest)
+
 
 
 > 📷 This schematic shows the practical implementation of the Thevenin model using Xschem.
